@@ -1,0 +1,23 @@
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    width:100px;
+    height: 40px;
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 2px 2px 2px white;
+}
+button:hover{
+    background-color: white;
+    color: yellow;
+}
